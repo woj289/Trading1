@@ -1,0 +1,23 @@
+h2{
+  text-align : center;
+}
+
+#stage{
+  text-align : center;
+}
+#orderbook-left{
+  float : left;
+}
+p:hover{
+  background : yellow;
+}
+
+#orderbook-right{
+  float : left;
+  padding-left : 150px;
+}
+.offers{
+  max-width : 1000px;
+  margin-left : auto;
+  margin-right : auto;
+}
